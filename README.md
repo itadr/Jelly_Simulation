@@ -1,7 +1,8 @@
 # Jelly_Simulation
 バネ・マス・ダンパ系によるアニメーション
 
-## Animation(Youtube)
+## Animation
+画像をクリックするとYouTubeにとびます
 ### video1
 [![](https://img.youtube.com/vi/iJesUjP3mcg/0.jpg)](https://www.youtube.com/watch?v=iJesUjP3mcg)
 ### video2
